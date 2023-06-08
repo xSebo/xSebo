@@ -1,6 +1,6 @@
 # xSebo
 - 👋 Hello!
-I’m currently learning Java, Python, HTML CSS JS, Flask and SQL, and I study software at university
+I’m currently learning C#, Java, Python, HTML CSS JS, Flask and SQL, and I study software at university
 
 ## Contact information
 - Email: github@sebo.monster
